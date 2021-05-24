@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatting-d4c0c": {
+      "hosting": {
+        "angular-config": [
+          "chatting-d4c0c"
+        ]
+      }
+    }
+  }
+}
